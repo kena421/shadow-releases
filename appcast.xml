@@ -5,6 +5,23 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.5</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.5</h3>
+                <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <li>New feature: Added a dedicated Updates section in Settings.</li>
+</ul>
+            ]]></description>
+            <pubDate>Fri, 13 Mar 2026 23:23:59 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.5/Shadow.zip" 
+                sparkle:version="107" 
+                sparkle:shortVersionString="2.0.5" 
+                sparkle:edSignature="2o6LLOUecR5CC+nZZncu1dY300QhgVgL+rX9bFJeY9dhP4rf4D/l7nNJdImSHamBnzY6u077taZixi7lU/PEAQ==" 
+                length="5738402" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.4</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.4</h3>
