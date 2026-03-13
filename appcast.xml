@@ -5,6 +5,23 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.13</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.13</h3>
+                <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; line-height: 1.6;">
+    <li><b>Minor Bug Fixes:</b> Addressed various small issues and improved overall stability.</li>
+</ul>
+            ]]></description>
+            <pubDate>Sat, 14 Mar 2026 02:17:27 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.13/Shadow.zip" 
+                sparkle:version="115" 
+                sparkle:shortVersionString="2.0.13" 
+                sparkle:edSignature="ZBfgtWvNQwuB3biFZgBLJzAEkbapOthg+G9aif6c+Wr1auE9/Wti2HRkWlp1Ecq5IDEfJ9gpTb4eqijDz8y5CQ==" 
+                length="5758533" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.12</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.12</h3>
