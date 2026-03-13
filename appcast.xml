@@ -5,6 +5,23 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.6</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.6</h3>
+                <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <li>Bug Fix: Fixed an issue where clicking anywhere in the app background would unintentionally drag the entire window.</li>
+</ul>
+            ]]></description>
+            <pubDate>Fri, 13 Mar 2026 23:38:47 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.6/Shadow.zip" 
+                sparkle:version="108" 
+                sparkle:shortVersionString="2.0.6" 
+                sparkle:edSignature="1Jv8AG9RIqdOPhmcitnhP5Krwu0ahH02EDzAaV49cnGDcYwhLw0Iq27SJqdUuy8nEiTgSR9T25zMN33x9TQwDQ==" 
+                length="5738411" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.5</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.5</h3>
