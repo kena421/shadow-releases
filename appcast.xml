@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Shadow Updates</title>
+        <description>Updates for the Shadow application.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.2.84</title>
+            <sparkle:releaseNotesLink>https://github.com/kena421/shadow-releases/releases/tag/v1.2.84</sparkle:releaseNotesLink>
+            <pubDate>Fri, 13 Mar 2026 22:04:59 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v1.2.84/Shadow.zip" 
+                sparkle:version="87" 
+                sparkle:shortVersionString="1.2.84" 
+                sparkle:edSignature="baOZ8dP/MuX4AL6BcZMb9BhhD2HcssbHUrqjvn8cd9RCzYSe2UNUXGsL1XfEm2t1QEZq5VsDi7NZ8Fk1fwMIBw==" 
+                length="4702177" 
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
