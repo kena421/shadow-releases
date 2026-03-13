@@ -5,6 +5,24 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.12</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.12</h3>
+                <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; line-height: 1.6;">
+    <li><b>Premium Slate UI:</b> Redesigned Knowledge Library with a sophisticated "Deep Slate" palette, elite typography (1.6x line-height), and spacious 32pt gutters for professional clarity.</li>
+    <li><b>Tactile Interaction:</b> Refined note rows with solid mechanical borders and spring-based micro-animations for a highly responsive, premium feel.</li>
+</ul>
+            ]]></description>
+            <pubDate>Sat, 14 Mar 2026 01:31:27 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.12/Shadow.zip" 
+                sparkle:version="114" 
+                sparkle:shortVersionString="2.0.12" 
+                sparkle:edSignature="NXfZQXVGbJgcY/Nfi2EEInxvQzNkcKTh5BeLm0ZljD17QO1a1kyXVr7DwRpYlyXGv5/i9tEjzZbsyq3bjdSSCQ==" 
+                length="5760300" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.11</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.11</h3>
