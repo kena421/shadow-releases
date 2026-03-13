@@ -12,6 +12,23 @@
     <li>New feature: Added a dedicated Updates section in Settings.</li>
 </ul>
             ]]></description>
+            <pubDate>Fri, 13 Mar 2026 23:12:01 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.0/Shadow.zip" 
+                sparkle:version="101" 
+                sparkle:shortVersionString="2.0.0" 
+                sparkle:edSignature="GnhiVChiZze0FvVbmVxOvXwpsfohKa3rncFeY5ur8Ci7RGU7L0yCjevt2hw5bajuP7A11AUKxFQEABK9ODuMBA==" 
+                length="5738404" 
+                type="application/octet-stream" />
+        </item>
+        <item>
+            <title>Version 2.0.0</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.0</h3>
+                <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <li>New feature: Added a dedicated Updates section in Settings.</li>
+</ul>
+            ]]></description>
             <pubDate>Fri, 13 Mar 2026 23:09:55 +0530</pubDate>
             <enclosure 
                 url="https://github.com/kena421/shadow-releases/releases/download/v2.0.0/Shadow.zip" 
