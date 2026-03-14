@@ -5,6 +5,37 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.25</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.25</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">Features</h3>
+    <ul>
+        <li><strong>Premium Update Strategy</strong>: Shadow now handles updates silently in the background. It automatically checks for new versions every 24 hours and downloads them so they're ready the next time you launch the app.</li>
+        <li><strong>Elite Shortcut Recording</strong>: Overhauled the shortcut recorder with an immersive, VS Code-inspired UI that captures keys in real-time.</li>
+        <li><strong>Hotkey Suppression</strong>: Global shortcuts are now automatically paused during recording to prevent accidental triggers while configuring your hotkeys.</li>
+        <li><strong>Shortcut "Steal" Logic</strong>: Assigning a hotkey that is already in use will now automatically disable the previous shortcut to avoid conflicts.</li>
+        <li><strong>Premium UI Overhaul</strong>: Re-engineered the Shortcuts Settings with high-fidelity keycap aesthetics, balanced layouts, and smooth glassmorphism effects.</li>
+    </ul>
+    
+    <h3>Fixes & Improvements</h3>
+    <ul>
+        <li><strong>Stability</strong>: Improved hotkey registration reliability and prevented accidental system-wide triggers during configuration.</li>
+        <li><strong>WebView Performance</strong>: Refined rendering for markdown accordions, tables, and task lists.</li>
+        <li><strong>Version Update</strong>: Bumped application version to 2.0.24.</li>
+    </ul>
+</div>
+            ]]></description>
+            <pubDate>Sat, 14 Mar 2026 15:41:02 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.25/Shadow.zip" 
+                sparkle:version="126" 
+                sparkle:shortVersionString="2.0.25" 
+                sparkle:edSignature="akaXHsU6xs2jBfpikzFuG01XH6/n3SDDU2sQcsJl4Bctnn/5qnO/5c9pvFxG/3G516NosJGtrSxBJfyU9KZmAg==" 
+                length="5852368" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.24</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.24</h3>
