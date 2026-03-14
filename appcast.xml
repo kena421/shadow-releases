@@ -5,6 +5,28 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.18</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.18</h3>
+                <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; line-height: 1.6;">
+    <li><b>Rich Markdown Engine:</b> Introduced a powerful new web-based markdown renderer for notes, offering beautifully formatted text and drastically improved performance.</li>
+    <li><b>Advanced Diagrams:</b> Automatically render <code>dbml</code>, <code>mermaid</code>, <code>dot</code>, and <code>graphviz</code> diagrams directly inline with your notes.</li>
+    <li><b>Source View Toggle:</b> Easily flip between your rendered diagrams and their raw source code with a single click using the new <b>&lt;/&gt; Source</b> button.</li>
+    <li><b>Syntax Highlighting:</b> Enjoy beautiful code formatting for all programming languages using the premium Atom One Dark theme.</li>
+    <li><b>Math Support:</b> Native rendering of mathematical equations and formulas using KaTeX.</li>
+    <li><b>Performance:</b> Optimized markdown rendering layout and robust local-scheme handling for better stability and smoother scrolling.</li>
+</ul>
+            ]]></description>
+            <pubDate>Sat, 14 Mar 2026 12:40:06 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.18/Shadow.zip" 
+                sparkle:version="120" 
+                sparkle:shortVersionString="2.0.18" 
+                sparkle:edSignature="4QbJAp4harCRfPBeTlVtM+DVLg9HIOp2cot4IwWaaU7qLqZwWF/oqGgpqdgMny+X4LNw1IACe0jspX3/dBrtAA==" 
+                length="5784532" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.17</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.17</h3>
