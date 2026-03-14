@@ -5,6 +5,41 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.21</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.21</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">Features</h3>
+    <ul>
+        <li><strong>Premium WebView Accordion</strong>: Upgraded &lt;details&gt; and &lt;summary&gt; elements with glassmorphism styling, rotating chevrons, and smooth expansion animations.</li>
+        <li><strong>Premium Table Experience</strong>: Modernized markdown tables with rounded corners, zebra striping, and interactive row hover effects.</li>
+        <li><strong>Enhanced Task Lists</strong>: Added custom styling for markdown task list checkboxes with a modern look and feel.</li>
+        <li><strong>Navigation History</strong>: Introduced navigation history support within the Knowledge Library for easier back-and-forth movement.</li>
+        <li><strong>Internal Note Linking</strong>: Support for standard markdown wiki-links [[Note Title]] and shadow-note:// links within the markdown view.</li>
+        <li><strong>Advanced Diagramming</strong>: Full support for DBML (Database Markup Language) rendering and improved Graphviz/Mermaid integration.</li>
+        <li><strong>Legacy IFrame Fixes</strong>: Resolved origin issues for YouTube and other external iframes to ensure smooth playback and rendering.</li>
+        <li><strong>Hard Breaks</strong>: Implemented "Hard Breaks" for single newlines in markdown to match premium editor expectations.</li>
+    </ul>
+    
+    <h3>Fixes & Improvements</h3>
+    <ul>
+        <li><strong>Snapshot Stability</strong>: Improved stability of UI snapshot tests and refined view rendering callbacks.</li>
+        <li><strong>WebView Performance</strong>: Optimized markdown rendering and layout efficiency in the persistent WebView.</li>
+        <li><strong>UI Refresh</strong>: Comprehensive theme adjustments across the Knowledge Library, including refined padding for admonitions and code blocks.</li>
+        <li><strong>Version Update</strong>: Bumped application version to 2.0.19.</li>
+    </ul>
+</div>
+            ]]></description>
+            <pubDate>Sat, 14 Mar 2026 14:19:27 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.21/Shadow.zip" 
+                sparkle:version="123" 
+                sparkle:shortVersionString="2.0.21" 
+                sparkle:edSignature="8AGxLZY/gZjPVzP8fNznjcNhMEEekbbdHxAY/hpKnkhi2Km/mQY5sBqPyrAnoPbnWGwHkRE2rT9GvrZzWwzaAw==" 
+                length="5808858" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.20</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.20</h3>
