@@ -5,6 +5,26 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.39</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.39</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">Fixes &amp; Improvements</h3>
+    <ul>
+        <li><strong>Better Mermaid Diagrams</strong>: Improved AI-generated architecture diagrams with more accurate layouts, correct side-binding syntax, and better label handling — resulting in fewer rendering errors.</li>
+    </ul>
+</div>
+            ]]></description>
+            <pubDate>Sun, 15 Mar 2026 20:29:52 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.39/Shadow.zip" 
+                sparkle:version="140" 
+                sparkle:shortVersionString="2.0.39" 
+                sparkle:edSignature="5CpvEMFaUfbhNYcN3iH/kmrXfT/Cmm0xxHBgJ/XkrxgmDV45gFaW9DXNpzhcKdbGnXLbPFha9k5dbZBbpGfoCQ==" 
+                length="7564560" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.38</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.38</h3>
