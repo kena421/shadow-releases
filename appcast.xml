@@ -5,6 +5,37 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.30</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.30</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">Features</h3>
+    <ul>
+        <li><strong>Robust Resource Discovery</strong>: Implemented a multi-strategy bundle resolution system that ensures the editor and renderer can find their assets across production, development, and testing environments.</li>
+        <li><strong>Markdown Note Linking</strong>: Integrated support for internal note links (`shadow-note://`) within the web-based markdown renderer.</li>
+        <li><strong>DBML Diagram Support</strong>: Added high-fidelity rendering for Database Markup Language (DBML) schemas directly inside your notes.</li>
+        <li><strong>Immersive WebView</strong>: Refined local scheme handling to support secure HTTPS origins, enabling robust YouTube iframe embeds and cross-origin asset loading.</li>
+    </ul>
+    
+    <h3>Fixes & Improvements</h3>
+    <ul>
+        <li><strong>Build Pipeline</strong>: Fixed a critical issue in the production build script where resource bundles were being omitted from the final application package.</li>
+        <li><strong>Stability</strong>: Enhanced snapshot testing reliability with correct bundle resolution for XCTest runners.</li>
+        <li><strong>WebView Performance</strong>: Optimized markdown rendering and layout performance for complex notes.</li>
+        <li><strong>Version Update</strong>: Bumped application version to 2.0.26.</li>
+    </ul>
+</div>
+            ]]></description>
+            <pubDate>Sun, 15 Mar 2026 10:21:50 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.30/Shadow.zip" 
+                sparkle:version="131" 
+                sparkle:shortVersionString="2.0.30" 
+                sparkle:edSignature="Vxk2FgVTPNFqgFBMWPpz1fY3OSQYMH1NhcB4c9dbmZoTYAOSTnkjo/aRXXyC9FGb1HUeEUFx88xzJzTvU6qqDQ==" 
+                length="7763974" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.29</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.29</h3>
