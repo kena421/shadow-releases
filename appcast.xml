@@ -5,6 +5,32 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.1.12</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.1.12</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">What's New</h3>
+    <section id="latest">
+        <h2>Version 2.1.9 — Enhanced Browsing & Window Stability</h2>
+        <ul>
+            <li>🌐 <strong>Browser Popup Support</strong>: Enjoy a more complete browsing experience with new support for popups and "target=_blank" links, opening seamlessly in new tabs.</li>
+            <li>📺 <strong>Fullscreen Protection</strong>: Improved stability by automatically disabling accessory mode transitions while in fullscreen mode to prevent UI layout issues.</li>
+            <li>🪟 <strong>Refined Window Management</strong>: Enhanced window snapping and collapsing functionality when outside of accessory mode for a smoother desktop experience.</li>
+            <li>🛠️ <strong>UI Reliability</strong>: Fixed window miniaturization behavior in accessory mode to ensure a consistent and predictable interface.</li>
+        </ul>
+    </section>
+</div>
+            ]]></description>
+            <pubDate>Sat, 21 Mar 2026 14:23:30 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.1.12/Shadow.zip" 
+                sparkle:version="153" 
+                sparkle:shortVersionString="2.1.12" 
+                sparkle:edSignature="mT/dnsJAcdqJAa2pgvLrV4VapUTZ40fH+s+XKnVEv4ZABwtZCjUXHMiISQsKgsol6nlm6KH9I0rJRJdDNzJ/Dg==" 
+                length="20931637" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.1.11</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.1.11</h3>
